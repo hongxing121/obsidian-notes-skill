@@ -26,7 +26,7 @@
 
 ```bash
 cd ~/.openclaw/workspace/skills
-git clone https://github.com/yourusername/obsidian-notes-skill.git obsidian-notes
+git clone https://github.com/hongxing121/obsidian-notes-skill.git obsidian-notes
 ```
 
 2. 重启 OpenClaw：
